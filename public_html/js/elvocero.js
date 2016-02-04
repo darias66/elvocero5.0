@@ -6,4 +6,7 @@ app.controller('menuCtrl', ['$scope','$http', function($scope,$http){
         $scope.menuInferior = 'fijos/footer.html';
         
         $scope.publicidad = 'publicidadNotas.html';
+        
+
 }]);
+
